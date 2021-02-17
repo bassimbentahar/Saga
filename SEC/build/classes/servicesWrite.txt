@@ -1,0 +1,3 @@
+ReservationTaxis-http://localhost:8080/Service_Taxi/ReservationTaxis
+ReservationAvions-http://localhost:8080/Service_Avion/ReservationAvions
+ReservationHotels-http://localhost:8080/Service_Hotel/ReservationHotels
